@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lakshanand.dev/sitemap.xml
+Sitemap: https://www.lakshanand.dev/sitemap.xml
